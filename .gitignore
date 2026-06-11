@@ -19,6 +19,6 @@ node_modules/
 .env
 *.local
 
-# Системні файли
+# Ігнорування системних файлів
 .DS_Store
 Thumbs.db
