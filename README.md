@@ -8,4 +8,4 @@
 - **LICENSE:** файл з ліцензією на даний проект.
 
 ## Доступність проекту
-Проект в якості сайту доступний за наступним посиланням: `https://mnc1337-studying.github.io/Fullstack-JS-Homework-5/`.
+Проект в якості сайту доступний за наступним посиланням: [https://mnc1337-studying.github.io/Fullstack-JS-Homework-5/](https://mnc1337-studying.github.io/Fullstack-JS-Homework-5/).
